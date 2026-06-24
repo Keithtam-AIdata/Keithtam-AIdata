@@ -27,7 +27,7 @@ Enterprise AI shows up in companies as a handful of repeatable patterns. My proj
 ### Project 2 — AI Business Analyst Assistant `flagship`
 A consulting-grade analytics copilot. You ask a business question in plain English; **Python and Pandas compute the KPI evidence first, and the language model only interprets numbers it is given — it never guesses them.** Every answer shows the computed evidence next to the interpretation, so the work is checkable.
 
-- **Stack:** Python · Pandas · DuckDB · Streamlit · OpenAI API
+- **Stack:** Python · Pandas · Streamlit · OpenAI API
 - **Depth:** pattern-driven synthetic dataset (documented business patterns, not random noise) · separated, testable analytics layer · KPI engine
 - **Links:** [Repository](https://github.com/Keithtam-AIdata/AI-Business-Analyst-Assistant) · [Live demo](https://ai-business-analyst-assistant-bnzdwzqs6eyetgbfawdnyp.streamlit.app/)
 
