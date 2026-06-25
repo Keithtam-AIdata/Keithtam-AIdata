@@ -1,6 +1,6 @@
 # Hi, I'm Keith Tam
 
-**Data Analyst (Lifemark Health Group) building applied-AI tools that turn business data into decisions.**
+**Data Analyst building applied-AI tools that turn business data into decisions.**
 
 I'm a data analyst with hands-on experience in SQL, Power BI, and Python, currently in Canada. I'm building a portfolio of **applied enterprise-AI projects** to show that I can take a real business problem, build an AI solution for it, and prove it works.
 
