@@ -24,7 +24,7 @@ Enterprise AI shows up in companies as a handful of repeatable patterns. My proj
 
 ## Featured projects
 
-### Project 2 — AI Business Analyst Assistant `flagship`
+### Project 2 — Text-to-SQL-Analytics-Assistant `flagship`
 A consulting-grade analytics copilot. You ask a business question in plain English; **Python and Pandas compute the KPI evidence first, and the language model only interprets numbers it is given — it never guesses them.** Every answer shows the computed evidence next to the interpretation, so the work is checkable.
 
 - **Stack:** Python · Pandas · Streamlit · OpenAI API
