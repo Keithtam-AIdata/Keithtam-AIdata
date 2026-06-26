@@ -29,7 +29,7 @@ A consulting-grade analytics copilot. You ask a business question in plain Engli
 
 - **Stack:** Python · Pandas · Streamlit · OpenAI API
 - **Depth:** pattern-driven synthetic dataset (documented business patterns, not random noise) · separated, testable analytics layer · KPI engine
-- **Links:** [Repository](https://github.com/Keithtam-AIdata/AI-Business-Analyst-Assistant) · [Live demo](https://ai-business-analyst-assistant-bnzdwzqs6eyetgbfawdnyp.streamlit.app/)
+- **Links:** [Repository](https://github.com/Keithtam-AIdata/Text-to-SQL-Analytics-Assistant) · [Live demo](https://text-to-sql-analytics-assistant-i4mqokeozgmpvbqibermts.streamlit.app/)
 
 ### Project 1 — AI Business Insight Generator
 A first applied-AI project: reads spreadsheet sales data, computes key metrics with Pandas, and uses the OpenAI API to generate an executive-style business summary with a trend chart.
